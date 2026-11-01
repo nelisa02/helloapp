@@ -1,2 +1,2 @@
 def greet():
-    return "hello white"
+    return "hello black"
