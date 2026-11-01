@@ -1,2 +1,2 @@
-def greetWhite():
+def greet():
     return "hello white"
